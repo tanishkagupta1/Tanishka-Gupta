@@ -1,0 +1,6 @@
+{
+  "name": "Neon Labyrinth",
+  "description": "An immersive 3D level-based maze escape game where you outrun a persistent enemy to reach the exit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["3D Graphics", "Procedural Generation", "Game AI"]
+}
